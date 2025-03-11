@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Orex.site - Server de Test",
+  title: "Orex.site - Server de Test 22222222222222222222222333",
   description: "Server de test Next.js și Node.js",
 };
 
